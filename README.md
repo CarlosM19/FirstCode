@@ -1,2 +1,5 @@
 # FirstCode
-Code in JavaScript
+Code in: JavaScript
+Hola Mundo
+Linea Agregada desde Visual Estudio Code
+
