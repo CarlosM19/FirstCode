@@ -1,5 +1,2 @@
 # FirstCode
-Code in: JavaScript
-Hola Mundo
-Linea Agregada desde Visual Estudio Code
-
+This repository is a practice of what was learned in the diploma in Java Script
